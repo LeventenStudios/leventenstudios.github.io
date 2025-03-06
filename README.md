@@ -1,5 +1,5 @@
-# Leventen Studios apps
+# Leventen Studios Apps
 
 Enjoy the games created by our studio.
 
-In case of any issues contact me: leventenstudios@icloud.com
+In case of any issues please contact us: leventenstudios@icloud.com
