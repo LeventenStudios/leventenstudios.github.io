@@ -2,7 +2,7 @@
 
 Enjoy the games created by our studio.
 
-Support our team if you can at [BuyMeACoffe](https://buymeacoffee.com/leventenstudios)
+Support our team if you can at [BuyMeACoffee](https://buymeacoffee.com/leventenstudios)
 
 To see how we handle personal information go to our [Privacy Policy](./privacy-policy.html) page.
 
