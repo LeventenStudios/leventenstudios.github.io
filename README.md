@@ -6,6 +6,7 @@ Hi, I'm Levente Nagy, a fulltime software and an indie iOS app developer. Please
 
 ## _GrindFrench: The vocab builder_
 Learn the top 2000 French words with native iOS voices. Practice offline with matching games. Build your French vocabulary with the most frequent words and engaging practice modes.
+
 GrindFrench is a thoughtfully designed language learning app focused on helping you build and reinforce your French vocabulary through listening, matching, and word recognition games.
 
 Build vocabulary, test your knowledge. Grinding is the only way, give it a go! It's free, new updates are on the way!
