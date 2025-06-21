@@ -1,9 +1,10 @@
 # Leventen Studios Apps
 
-Enjoy the games created by our studio.
+Hi, I'm Levente Nagy, a fulltime software and an indie iOS app developer. Please enjoy the apps created by the studio.
 
-Support our team if you can at [BuyMeACoffee](https://buymeacoffee.com/leventenstudios)
+## My apps:
+![GridFrench](images/GrindFrench_released_alt.png)
 
-To see how we handle personal information go to our [Privacy Policy](./privacy-policy.html) page.
+Support if you can at [BuyMeACoffee](https://buymeacoffee.com/leventenstudios)
 
-In case of any issues please [contact us](mailto:leventenstudios@icloud.com).
+To see how your personal information is handled, go to the [Privacy Policy](./privacy-policy.html) page. In case of any issues please [contact us](mailto:leventenstudios@icloud.com).
